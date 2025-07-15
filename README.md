@@ -36,32 +36,41 @@
 
 ---
 
-### 🛠️ Technologies & Tools  
+## 🛠️ Technical Skills
 
-<div align="center">
-  <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,html,css,js,sql,mysql,hadoop,spark,kafka,pytorch,tensorflow,opencv,pandas,matplotlib,docker,git,linux,jupyter&perline=12" />
-  </a>
-</div>
+### 📌 AI & Programming
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### 📊 Data Analytics
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+
+### 🗄️ Big Data & DevOps
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop)
+![Spark](https://img.shields.io/badge/-Spark-F17A2B?style=flat&logo=apachespark)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka)
 
 ---
 
-### 📈 GitHub Stats
+## 🔗 Connect with me
 
-<div align="center">
-  <img width="390" height="160" src="https://github-readme-streak-stats.herokuapp.com?user=fyassine01&theme=dracula&hide_border=false&border_radius=10" alt="GitHub Streak" />
-  <img width="390" height="160" src="https://github-readme-stats.vercel.app/api?username=fyassine01&count_private=true&show_icons=true&theme=dracula&border_radius=10&rank_icon=github" alt="GitHub Stats" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyassine01&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farah-yassine)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/fyassine01)
 
 ---
 
-### 💬 Quote to Live By
+## 🏆 GitHub Stats
 
-<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 10px; color: #f8f8f2; font-family: Arial, sans-serif;">
-  <h3 style="color: #00BFFF; font-weight: bold;">💡✨ "Keep building. Learn fast. Stay curious." ✨💡</h3>
-  <p style="color: #00BFFF; font-size: 16px; margin-top: 10px;">
-    Always aiming to bridge theory and practice — with data, AI, and creativity.
-  </p>
-</div>
+![Yassine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fyassine01&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fyassine01&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fyassine01&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+> Made with ❤️ by **Yassine FARAH**
