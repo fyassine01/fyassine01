@@ -27,6 +27,9 @@
   <a href="https://github.com/fyassine01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/yassinefarah" target="_blank">
+     <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
+  </a>
 </p>
 
 ---
