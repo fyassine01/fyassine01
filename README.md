@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=1E90FF" />
   </a>
   <a href="https://fyassine01.github.io/yassine_portfolio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/yassinefarah" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=1E90FF" />
